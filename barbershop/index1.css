@@ -1,0 +1,8 @@
+html,
+body {
+	min-width: 1122px;
+	min-height: 1750px;
+	margin: 0;
+	padding: 0;
+	background: yellow;
+}
